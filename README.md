@@ -1,4 +1,4 @@
-`
+```
 your_project/
 ├── app/
 │   ├── __init__.py
@@ -40,4 +40,4 @@ your_project/
 ├── .env                        # Environment variables
 ├── requirements.txt            # Project dependencies
 └── README.md
-`
+```
